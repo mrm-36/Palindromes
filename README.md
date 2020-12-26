@@ -19,3 +19,5 @@
 	    st[::-1] = cba
 	Now, to check if st is a palindrome, we just check if the string and the 
 	reversed string are equal.
+
+Check out the video on https://www.youtube.com/channel/UCzw1_BkDtDeaaq9f8PJrJmA.
